@@ -1,4 +1,4 @@
-# EsteBracket
+# Estadio
 
 A minimal web app prototype for building and simulating tournament brackets.  
 The MVP focuses purely on front-end bracket logic for a 16-team tournament—no accounts, databases, or hosting dependencies.
